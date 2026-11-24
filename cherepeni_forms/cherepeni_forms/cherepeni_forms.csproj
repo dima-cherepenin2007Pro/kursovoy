@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AD95DA28-4140-4002-BD2C-4301534DB1DF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>cherepeni_forms</RootNamespace>
+    <AssemblyName>cherepeni_forms</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Word.15.0.4797.1004\lib\net20\Microsoft.Office.Interop.Word.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data, Version=9.4.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MySQL\MySQL Connector NET 9.4\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\AutoBackup.cs" />
+    <Compile Include="Classes\DBconfig.cs" />
+    <Compile Include="Authorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authorization.Designer.cs">
+      <DependentUpon>Authorization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\InactivityLock.cs" />
+    <Compile Include="Forms\Manager\Category_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Manager\Category_add.Designer.cs">
+      <DependentUpon>Category_add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Manager\Category_edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Manager\Category_edit.Designer.cs">
+      <DependentUpon>Category_edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Manager\Category_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Manager\Category_view.Designer.cs">
+      <DependentUpon>Category_view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Manager\Manager_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Manager\Manager_form.Designer.cs">
+      <DependentUpon>Manager_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Manager\Products_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Manager\Products_view.Designer.cs">
+      <DependentUpon>Products_view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Manager\Product_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Manager\Product_add.Designer.cs">
+      <DependentUpon>Product_add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Manager\Product_edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Manager\Product_edit.Designer.cs">
+      <DependentUpon>Product_edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Salesperson\Customer_get.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Salesperson\Customer_get.Designer.cs">
+      <DependentUpon>Customer_get.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Salesperson\Customer_make.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Salesperson\Customer_make.Designer.cs">
+      <DependentUpon>Customer_make.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Salesperson\Korzina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Salesperson\Korzina.Designer.cs">
+      <DependentUpon>Korzina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Salesperson\OrderMaker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Salesperson\OrderMaker.Designer.cs">
+      <DependentUpon>OrderMaker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Salesperson\Orders_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Salesperson\Orders_view.Designer.cs">
+      <DependentUpon>Orders_view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Salesperson\SalesPerson_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Salesperson\SalesPerson_form.Designer.cs">
+      <DependentUpon>SalesPerson_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\Roles_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\Roles_view.Designer.cs">
+      <DependentUpon>Roles_view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\Role_edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\Role_edit.Designer.cs">
+      <DependentUpon>Role_edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\Sist_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\Sist_admin.Designer.cs">
+      <DependentUpon>Sist_admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\Special.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\Special.Designer.cs">
+      <DependentUpon>Special.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\Statuses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\Statuses.Designer.cs">
+      <DependentUpon>Statuses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\Status_edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\Status_edit.Designer.cs">
+      <DependentUpon>Status_edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\Users_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\Users_view.Designer.cs">
+      <DependentUpon>Users_view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\User_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\User_add.Designer.cs">
+      <DependentUpon>User_add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\User_edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sis_admin\User_edit.Designer.cs">
+      <DependentUpon>User_edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\Connection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Services\Connection.Designer.cs">
+      <DependentUpon>Connection.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Authorization.resx">
+      <DependentUpon>Authorization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Manager\Category_add.resx">
+      <DependentUpon>Category_add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Manager\Category_edit.resx">
+      <DependentUpon>Category_edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Manager\Category_view.resx">
+      <DependentUpon>Category_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Manager\Manager_form.resx">
+      <DependentUpon>Manager_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Manager\Products_view.resx">
+      <DependentUpon>Products_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Manager\Product_add.resx">
+      <DependentUpon>Product_add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Manager\Product_edit.resx">
+      <DependentUpon>Product_edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Salesperson\Customer_get.resx">
+      <DependentUpon>Customer_get.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Salesperson\Customer_make.resx">
+      <DependentUpon>Customer_make.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Salesperson\Korzina.resx">
+      <DependentUpon>Korzina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Salesperson\OrderMaker.resx">
+      <DependentUpon>OrderMaker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Salesperson\Orders_view.resx">
+      <DependentUpon>Orders_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Salesperson\SalesPerson_form.resx">
+      <DependentUpon>SalesPerson_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sis_admin\Roles_view.resx">
+      <DependentUpon>Roles_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sis_admin\Role_edit.resx">
+      <DependentUpon>Role_edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sis_admin\Sist_admin.resx">
+      <DependentUpon>Sist_admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sis_admin\Special.resx">
+      <DependentUpon>Special.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sis_admin\Statuses.resx">
+      <DependentUpon>Statuses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sis_admin\Status_edit.resx">
+      <DependentUpon>Status_edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sis_admin\Users_view.resx">
+      <DependentUpon>Users_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sis_admin\User_add.resx">
+      <DependentUpon>User_add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sis_admin\User_edit.resx">
+      <DependentUpon>User_edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Services\Connection.resx">
+      <DependentUpon>Connection.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

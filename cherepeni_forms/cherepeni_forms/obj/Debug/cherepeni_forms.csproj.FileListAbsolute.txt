@@ -1,0 +1,174 @@
+D:\cherepenin\cherepeni_forms\cherepeni_forms\bin\Debug\cherepeni_forms.exe.config
+D:\cherepenin\cherepeni_forms\cherepeni_forms\bin\Debug\cherepeni_forms.exe
+D:\cherepenin\cherepeni_forms\cherepeni_forms\bin\Debug\cherepeni_forms.pdb
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.AssemblyReference.cache
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Form1.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Properties.Resources.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.GenerateResource.cache
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.CoreCompileInputs.cache
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.exe
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.pdb
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Form1.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Users_view.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Category_add.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Category_view.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Manager_mscr.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Products_view.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Product_add.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Product_edit.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Customer_get.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Customer_make.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Korzina.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.OrderMaker.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Orders_view.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.SalesPerson_form.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Roles_view.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Role_edit.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.User_add.resources
+D:\cherepenin\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.User_edit.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.AssemblyReference.cache
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Form1.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Category_add.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Category_view.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Manager_mscr.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Products_view.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Product_add.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Product_edit.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Customer_get.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Customer_make.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Korzina.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.OrderMaker.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Orders_view.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.SalesPerson_form.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Roles_view.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Role_edit.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Form1.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Users_view.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.User_add.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.User_edit.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Properties.Resources.resources
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.GenerateResource.cache
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.CoreCompileInputs.cache
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.exe
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.pdb
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\cherepeni_forms.exe.config
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\cherepeni_forms.exe
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\cherepeni_forms.pdb
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\MySql.Data.dll
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\MySql.Data.xml
+D:\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.CopyComplete
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\cherepeni_forms.exe.config
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\cherepeni_forms.exe
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\cherepeni_forms.pdb
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\MySql.Data.xml
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.AssemblyReference.cache
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.exe.config
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Category_add.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Category_view.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Products_view.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Product_add.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Product_edit.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Customer_get.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Customer_make.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Korzina.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.OrderMaker.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Orders_view.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.SalesPerson_form.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Roles_view.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Role_edit.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Special.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Statuses.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Status_edit.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Users_view.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.User_add.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.User_edit.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Properties.Resources.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.GenerateResource.cache
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepen.32DF8DCA.Up2Date
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.exe
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.pdb
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Services.Connection.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Authorization.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Manager_form.resources
+C:\Users\Pierre\Pictures\Camera Roll\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sistem_admin.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\cherepeni_forms.exe.config
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\cherepeni_forms.exe
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\cherepeni_forms.pdb
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\System.Memory.dll
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\System.Numerics.Vectors.dll
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\bin\Debug\System.Buffers.dll
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.AssemblyReference.cache
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.SuggestedBindingRedirects.cache
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.exe.config
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Authorization.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Category_add.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Category_view.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Manager_form.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Products_view.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Product_add.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Customer_get.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Customer_make.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Korzina.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.OrderMaker.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Orders_view.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.SalesPerson_form.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Roles_view.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Role_edit.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sistem_admin.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Special.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Statuses.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Status_edit.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Users_view.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.User_add.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.User_edit.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Properties.Resources.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Services.Connection.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.GenerateResource.cache
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.CoreCompileInputs.cache
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepen.32DF8DCA.Up2Date
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.exe
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.pdb
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Product_edit.resources
+P:\Курсовой\cherepenin\idk\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Category_edit.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.AssemblyReference.cache
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.SuggestedBindingRedirects.cache
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.exe.config
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Authorization.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Category_add.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Category_edit.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Category_view.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Manager_form.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Products_view.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Manager.Product_add.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Product_edit.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Customer_get.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Customer_make.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Korzina.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.OrderMaker.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.Orders_view.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Salesperson.SalesPerson_form.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Roles_view.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Role_edit.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sistem_admin.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Special.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Statuses.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Status_edit.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.Users_view.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.User_add.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Forms.Sis_admin.User_edit.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Properties.Resources.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.Services.Connection.resources
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.GenerateResource.cache
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.csproj.CoreCompileInputs.cache
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.exe
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepeni_forms.pdb
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\bin\Debug\cherepeni_forms.exe.config
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\bin\Debug\cherepeni_forms.exe
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\bin\Debug\cherepeni_forms.pdb
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\bin\Debug\System.Memory.dll
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\bin\Debug\System.Numerics.Vectors.dll
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\bin\Debug\System.Buffers.dll
+P:\Kursovoy\cherepeni_forms\cherepeni_forms\obj\Debug\cherepen.32DF8DCA.Up2Date

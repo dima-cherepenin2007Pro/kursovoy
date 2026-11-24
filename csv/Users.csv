@@ -1,0 +1,4 @@
+﻿UserID;FirstName;LastName;RoleID;Login;Password
+1;Иван;Петров;1;admin;admin123
+2;Анна;Смирнова;2;seller;seller123
+3;Дмитрий;Иванов;3;manager;manager123
